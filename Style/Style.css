@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.Main{
+    background-color: aquamarine;
+    grid-column-start: 6;
+    grid-row-end: 1;
+    width: 600px;
+    height: 700px;
+}
